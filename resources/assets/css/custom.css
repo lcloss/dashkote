@@ -1,0 +1,8 @@
+div.is-invalid > .input-group-text {
+    border: 1px solid red;
+    border-radius: .25rem;
+}
+div.is-invalid > .form-control {
+    border: 1px solid red;
+    border-radius: .25rem;
+}
